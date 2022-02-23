@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties chief commissioners and governours of his revenue in this Kingdom, having informed us, that several branches of the said revenue are likely to become much impaired by the negligence or connivance of several justices of the peace, and other magistrates, and the great discouragement and obstruction given by some of them to His Majesties officers and their deputies, in the improvement and collection of the revenue arising as well by hearths ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46034</idno>
+            <idno type="STC">Wing I412</idno>
+            <idno type="STC">ESTC R36837</idno>
+            <idno type="EEBO-CITATION">16141039</idno>
+            <idno type="OCLC">ocm 16141039</idno>
+            <idno type="VID">104821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1594:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties chief commissioners and governours of his revenue in this Kingdom, having informed us, that several branches of the said revenue are likely to become much impaired by the negligence or connivance of several justices of the peace, and other magistrates, and the great discouragement and obstruction given by some of them to His Majesties officers and their deputies, in the improvement and collection of the revenue arising as well by hearths ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke ... and are to be sold by Mary Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title from first 11 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin the 22d day of August, 1684"--p. [2]</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tax collection --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104821:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant AND COUNCIL.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſties Chief Commiſſioners and Go<g ref="char:EOLhyphen"/>vernours of his Revenue in this Kingdom, having informed Vs, That ſeveral Bran<g ref="char:EOLhyphen"/>ches of the ſaid Revenue are likely to become much impaired by the negligence or connivance of ſeveral Iuſtices of the Peace, and other Magiſtrates, and the great diſcouragement and obſtruction given by ſome of them to his Majeſties Officers and their Deputies, in the improvement and Collection of the Reve<g ref="char:EOLhyphen"/>nue ariſing as well by Hearths, and other firing places, as by the Exciſe of B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er and Ale, and Ale Licences, and alſo by Countenanceing, and refuſeing to puniſh ac<g ref="char:EOLhyphen"/>cording to Law, ſuch perſons as do commit Outrages in making Re<g ref="char:EOLhyphen"/>ſcues of diſtreſſes legally taken by his Majeſties Officers, and ſuch as De<g ref="char:EOLhyphen"/>fraud his Majeſtie by concealing the ſaid duties, and by ſelling <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> and <hi>Ale,</hi> by Retail without Licence, as alſo by ſuppreſſing or not Returning of Recognizances taken for the appearance of perſons who <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon complaint or ſuſpition of Miſdemeanours are bound to appear at th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Generall Aſſi<g ref="char:EOLhyphen"/>zes or Seſſions, or by taking inſolvent ſecurity for the appearance of ſuch
+<pb facs="tcp:104821:2"/>
+               <!-- PDF PAGE 9 -->
+perſons ſo bound over, And We being deſirous to Redreſs the aforeſaid A<g ref="char:EOLhyphen"/>buſes and for the time to come, to remove all Impediments to the improv<g ref="char:EOLhyphen"/>ing Leavying, and Collecting of the ſaid Revenue. Do hereby Strictly Charge and Command all Iuſtices of the Peace, Chief Magiſtrates and o<g ref="char:EOLhyphen"/>ther his Majeſties Officers, and Miniſters whom it doth or may concern. That upon pain of being proceeded againſt as contemners of his Majeſties Authority, and as perſons ill affected to the Peace and ſafety of his King<g ref="char:EOLhyphen"/>dom; That they and every of them, do from time to time, for the future give their vigorous and effectual aſſiſtance to his Majeſties ſaid Officers, and their Deputies, as well in the improvement as in the Collecting of the ſaid ſeveral Branches of his Majeſties Revenue; And Likewiſe in the ſpeedy proſecution and puniſhing according to Law, all ſuch perſons as ſhall by any Illegal or Vndue practices labour to ſubſtract, or impaire any Branch of the ſaid Revenue: And likewiſe that they do henceforth take ſpecial care that in all ſuch Recognizances to be taken as aforeſaid, for the appearance of any perſon or perſons, there be ſome ſolvent or Reſponſible perſon Bound, and that ſuch Recognizances be duely returned according to Law.</p>
+            <closer>
+               <dateline>Given at the Council <hi>Chamber</hi> in <hi>Dublin</hi> 
+                  <date>the 22d day of <hi>Auguſt,</hi> 1684,</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Mich: Armach.</item>
+                     <item>C. Franc. Dublin.</item>
+                     <item>Arran,</item>
+                     <item>Longford,</item>
+                     <item>Granard. </item>
+                     <item>Anth. Midenſis.</item>
+                     <item>William Kildare.</item>
+                     <item>Cha. Feilding.</item>
+                     <item>Rich. Coote.</item>
+                     <item>He. Hene.</item>
+                     <item>Ol. St. George<g ref="char:punc">▪</g>
+                     </item>
+                     <item>Tho. Newcomen.</item>
+                     <item>Lem. Kingdon.</item>
+                  </list>
+               </signed>
+               <lb/>
+God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Benjamin Took,</hi> Printer to the Kings moſt Excellant Majeſty, and are to be ſold by <hi>Mary Crook</hi> at His Majeſties Printing-Houſe, on <hi>Ormonde-Key.</hi> 1684</p>
+         </div>
+      </back>
+   </text>
+</TEI>
